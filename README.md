@@ -1,1 +1,3 @@
 # gccollab_outage
+
+PLACEHOLDER FOR FUTURE DEVELOPMENT
